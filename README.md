@@ -1,8 +1,8 @@
 # Coding-Challeges
 
-#Tik Tac Toe console game.
+# Tik Tac Toe console game.
 
-# The program consist of Tic_Tac_Toe class.
+The program consist of Tic_Tac_Toe class.
 
 consist of fields 1. two dimentional int array
                   2. playername
